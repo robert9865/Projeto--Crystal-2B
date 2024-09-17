@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    border: 0;
+    padding: 0;
+    font-family:luc:'Courier New', Courier, monospace, geneva, verdana, sans-serif
+
+}
+.container{
+    display:flex;
+    align-items:center;
+    
+}
+header{
+    background-color: darkgreen;
+    display: flex;
+    align-items:center;
+    justify-content: space-between;
+    color:white;
+    padding: 30px 50px;
+
+}
+a{
+    text-decoration: nome;
+    color: white;
+    font-size:25px;
+    margin-left:15px
+}
+.inicio{
+    background-color: forestgreen;
+    color: white;
+}
+.titulo-inicio{
+    font: size 40px;
+    width:70%;
+}
+.caixa{
+    border:1px solid
+}
+
